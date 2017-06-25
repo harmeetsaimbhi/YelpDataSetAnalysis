@@ -1,2 +1,2 @@
-# YoutubeDataMining
-Large Scale data mining on Youtube Dataset using Spark and Hadoop 
+# YelpDataAnalysis
+Large Scale data mining on Yelp Dataset using Spark and Hadoop 
